@@ -111,7 +111,17 @@ calculate the average number of cards per game for each country
 (grouped_by_country['yellowCards'].sum() + grouped_by_country['redCards'].sum()) / grouped_by_country['games'].sum()
 ```
 
+## 6. Correlation
 
+```shell
+
+```
+
+## 6. 
+
+```shell
+
+```
 
 # More
 ## NaN and NaT
